@@ -1,0 +1,6 @@
+{
+  "name": "Sınav Kaygısı ve Öğrenci Destek Platformu",
+  "description": "Öğrenci ve öğretmenler için sınav kaygısı yönetimi, etkileşimli rahatlama egzersizleri, 6 eğitsel modül, ödev ve aktivite takip sistemi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
